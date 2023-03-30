@@ -11,7 +11,7 @@ A DCV extension may communicate with either a DCV client or a DCV server, depend
 
 The NICE DCV Extension SDK uses Protocol Buffers (protobuf), an open-source data format designed to serialize structured data in a compact, binary form. By using Protocol Buffers, DCV components and extensions can communicate with one another in a way that is platform-independent and extensible, regardless of the selected programming language.
 
-This repository contains protobuf definition file extensions.proto
+This repository contains protobuf definition file `extensions.proto`
 
 To provide feedback, please file an issue.
 
